@@ -1,0 +1,88 @@
+header{
+    border-radius: 25%;
+    background-color: rgba(255, 215, 215, 0);
+    width: 90%;
+    height: 90%;
+    padding: 10px;
+    margin: 10px;
+    font-size: 85%;
+    color: rgb(46, 30, 119);
+    text-align: center;
+    overflow: hidden;
+}
+
+nav{
+    border-radius: 10%;
+    height: 90px;
+    text-align: center;
+    block-size: 50px;
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(88, 117, 108);
+}
+
+nav a{
+    border-radius: 90%;
+    margin:auto;
+    float: left;
+    display: block;
+    color: rgb(46, 30, 119);
+    text-align: left;
+    padding: 14px 16px 0px 0px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color:rgba(42, 55, 230, 0);
+    color: rgb(8, 8, 56);
+}
+
+    .Accessory{
+    position: fixed;
+    height: 40%;
+    width: 30%;
+    }
+    
+    
+    .Accessory2{
+        float: right;
+        text-align: center;
+        align-items: center;
+        size-adjust: 50%;
+        width: 60%;
+        height: 40%;
+
+    }
+
+.Accessory3{
+    position: fixed;
+width: 31%;
+height:43%;
+  
+
+}
+
+h4{
+    font-size: larger;
+  
+}
+
+h5{
+    font-size: larger;
+    width: 150%;
+  
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(0, 0, 255);
+    color: azure;
+    padding: 10px;
+}
+
+.about{
+    color: aliceblue;
+    
+}

@@ -1,0 +1,60 @@
+nav{
+    border-radius: 10%;
+    background-color: rgba(82, 32, 61, 0.719);
+
+    height: 90px;
+    text-align: center;
+    block-size: 50px;
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav a{
+    margin:auto;
+    float: right;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px 0px 0px;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color:rgba(215, 217, 243, 0);
+    color: rgb(8, 8, 56);
+}
+
+main{
+    text-align: left;
+    color: aliceblue;
+    border-radius: 5%;
+    background-color: rgba(82, 32, 61, 0.719);
+
+}
+
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+footer{
+    color: aliceblue;
+    background-color: rgba(82, 32, 61, 0.719);
+    border-radius: 5%;
+}
